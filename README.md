@@ -4,7 +4,7 @@ The shell script for QC of ATAC
 ## Requirement
 * fastp (https://github.com/OpenGene/fastp)
 * bowtie2 (https://github.com/BenLangmead/bowtie2)
-* picard (https://github.com/GregoryFaust/samblaster)
+* samblaster (https://github.com/GregoryFaust/samblaster)
 * samtools (https://github.com/samtools/samtools)
 * ATACFragQC (https://github.com/0CBH0/ATACFragQC)
 
